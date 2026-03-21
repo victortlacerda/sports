@@ -1,0 +1,22 @@
+{
+  "name": "Arena App",
+  "short_name": "Arena",
+  "description": "Organiza peladas, campeonatos e partidas de raquete",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060b18",
+  "theme_color": "#060b18",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%23060b18'/><circle cx='96' cy='96' r='60' fill='none' stroke='%231a6cf6' stroke-width='8'/><polygon points='96,50 110,80 144,85 120,108 126,142 96,126 66,142 72,108 48,85 82,80' fill='%231a6cf6' opacity='.85'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='80' fill='%23060b18'/><circle cx='256' cy='256' r='160' fill='none' stroke='%231a6cf6' stroke-width='20'/><polygon points='256,130 295,210 384,223 320,285 336,374 256,332 176,374 192,285 128,223 217,210' fill='%231a6cf6' opacity='.85'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
